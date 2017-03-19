@@ -181,6 +181,13 @@ single sign on
 
 > Update the web.config of your root project as shown
 
+```
+<add key="ida:ClientId" value="" /> <!-- clientId will be available from Configure menu on the Applications tab -->
+<add key="ida:Tenant" value="" /> <!-- value should be: your-directory-name.onmicrosoft.com -->
+<add key="ida:AADInstance" value="https://login.microsoftonline.com/{0}" />
+<add key="ida:PostLoginRedirectUri" value="" /> <!-- replace this with https://url for your project (example: https://localhost:4040), replace with actual url if it is hosted -->
+```
+
 ![C:\\Users\\HardikMistry\\Desktop\\single sign on\\add the following to web.config in root of the project.png](media/3ad1f0268641288eb8d8d488feca04e4.png)
 
 > Run the app
