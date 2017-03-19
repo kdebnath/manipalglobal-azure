@@ -1,2 +1,2 @@
-# Manipal-CodeSamples
-Hands on for everything with manipal
+# Manipal Global Azure HOLs (Hands On Labs)
+Repository of code/decks for HOLs @ Manipal Global
