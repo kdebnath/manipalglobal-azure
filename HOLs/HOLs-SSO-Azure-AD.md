@@ -15,6 +15,10 @@ with User Role
 
 > Copy and save the temporary password
 
+> **Enable MFA (Multi-factor authentication) for the user you just created, open your webbrowser in private mode and visit: http://aka.ms/mfasetup and login with the user's credentials** 
+more here: https://www.youtube.com/watch?v=HIrVM3rf5zA
+
+
 ![C:\\Users\\HardikMistry\\Desktop\\single sign on\\save temporary password.png](media/7c7035681534810cf529a44929f00739.png)
 
 > Create a new ASP.NET MVC Web Application
