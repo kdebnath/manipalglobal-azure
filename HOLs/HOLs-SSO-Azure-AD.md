@@ -1,5 +1,7 @@
 ## Single Sign-On using Azure Active Directory
 
+##### Azure Active Directory code samples: https://github.com/azure-samples?query=active-directory
+
 1.  Add user to the Active Directory
 
 ![C:\\Users\\HardikMistry\\Desktop\\single sign on\\add user to active directtory.png](media/f542c078a18d2c2cdd3cf921ae35fa1e.png)
