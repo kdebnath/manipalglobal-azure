@@ -2,7 +2,7 @@
 Repository of code/decks for HOLs @ Manipal Global
 
 **Official Azure Training Kit from Microsoft**
-https://github.com/Azure-Readiness/Dev-Camp
+https://github.com/Azure-Readiness/DevCamp
 
 **More on taking advantage of Microsoft Azure**
 https://github.com/Azure-Readiness
