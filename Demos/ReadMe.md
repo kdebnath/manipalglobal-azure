@@ -1,0 +1,1 @@
+All code is under CC license (Commons Creative).
